@@ -6,6 +6,6 @@ public class HelloGit6 {
 		System.out.println("Hello Git!!");
 		
 		// how are you doing??
-		
+		System.out.println("how are you doing??");
 	}
 }
