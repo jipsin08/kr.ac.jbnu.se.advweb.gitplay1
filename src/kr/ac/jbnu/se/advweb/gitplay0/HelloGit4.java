@@ -5,6 +5,6 @@ public class HelloGit4 {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 		
-		//adfadfadf
+		System.out.println("confliction was occured");
 	}
 }
