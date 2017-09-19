@@ -16,5 +16,8 @@ public class HelloGit {
 		
 		// I added the following part.
 		System.out.println("This is a confliction test.");
+		
+		//0919 added by tg
+		System.out.println("Hello git hell hell");
 	}
 }

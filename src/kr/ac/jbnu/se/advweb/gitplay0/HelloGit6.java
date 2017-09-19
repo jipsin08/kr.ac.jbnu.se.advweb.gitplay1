@@ -1,10 +1,11 @@
 package kr.ac.jbnu.se.advweb.gitplay0;
 
-public class HelloGit4 {
+public class HelloGit6 {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 		
-		//adfadfadf
+		// how are you doing??
+		
 	}
 }
