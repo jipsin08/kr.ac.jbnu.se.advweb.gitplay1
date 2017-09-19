@@ -6,6 +6,6 @@ public class HelloGit4 {
 		System.out.println("Hello Git!!");
 		
 		// how are you doing??
-		// boom boom pow, kendrick lamar Â¯½Â ±èÁø¸® ´ö°ø swag Yeah~~ ppom
+		// boom boom pow, kendrick lamar Â¯½Â ±èÁø¸® ´ö°ø swag Yeah~~ ppoms
 	}
 }
